@@ -1,0 +1,11 @@
+
+{
+  "description": "Design stunning smartphone-optimized invitations for web hosting services with an intuitive slide-through interface, enhancing user engagement and appeal.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
